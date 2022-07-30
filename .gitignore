@@ -1,0 +1,10 @@
+dev-scripts/
+output/
+__pycache__/
+ACIDL___.TTF
+Ubuntu-B.ttf
+input.png
+100-names.txt
+input.txt
+output.txt
+test.py
